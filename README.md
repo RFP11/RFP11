@@ -12,8 +12,10 @@
 - 🌐 **Web API Development:** Turning ideas into functional and performant Web APIs is my forte.
 - 🛠️ **Backend Architectures:** Crafting the backbone of applications to ensure seamless data flow and processing.
 - 🔍 **Database Optimization:** Fine-tuning databases for optimal performance and responsiveness.
+- 🔐 **Cybersecurity:** Familiar with cybersecurity practices, including exploring OWASP security guidelines and Google Dorking techniques.
 
 ### Programming Language
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -26,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go.svg" height="40" alt="golang logo"  />
   <img width="12" />
 </div>
+### Databases
+
+- 📊 **Relational Databases:** Proficient in working with relational databases such as MySQL, PostgreSQL.
+- 📈 **NoSQL Databases:** Experienced with various NoSQL databases like MongoDB.
 
 ### Let's Connect
 
