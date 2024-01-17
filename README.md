@@ -32,7 +32,7 @@
 ### Databases
 
 - 📊 **Relational Databases:** Proficient in working with relational databases such as MySQL, PostgreSQL.
-- 📈 **NoSQL Databases:** Experienced with various NoSQL databases like MongoDB.
+- 📈 **NoSQL Databases:** Experienced with NoSQL databases like MongoDB.
 
 ### Let's Connect
 
