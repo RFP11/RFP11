@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/go/go.svg" height="40" alt="golang logo"  />
   <img width="12" />
 </div>
+
 ### Databases
 
 - 📊 **Relational Databases:** Proficient in working with relational databases such as MySQL, PostgreSQL.
