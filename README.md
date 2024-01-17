@@ -1,4 +1,4 @@
-<h1>Hello there <img  src="https://media.tenor.com/PEp7__gqEYoAAAAj/mythikore-anime-girl.gif" width="80"/></h1>
+<h1>Hello<img  src="https://media.tenor.com/PEp7__gqEYoAAAAj/mythikore-anime-girl.gif" width="80"/></h1>
 👋 Hi there! I'm Rafly, a passionate developer specializing in crafting robust Web APIs and handling backend intricacies. 🚀
 
 ### About Me
