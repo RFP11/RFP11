@@ -36,5 +36,5 @@
 
 ### Let's Connect
 
-- 📧 **Email:** [muhammadraflypratama117@gmail.com](mailto:mraflypratama@gmail.com)
+- 📧 **Email:** [mraflypratama117@gmail.com](mailto:mraflypratama@gmail.com)
 - 📱 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-YourLinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/mraflypratama/)
